@@ -9,6 +9,20 @@ A CLI Application name LIRI which takes in user arguments for commands and param
 
 ## Project Walkthrough
 
+### Instruction to Run This App in CLI
+
+* You will need to run the command `npm install` in order to install all dependent Node Packages needed for this app to run
+* Next, create a file named `.env`, add the following to it, replacing the values with your API keys (no quotes) once you have them:
+
+    ```js
+    # Spotify API keys
+
+    SPOTIFY_ID=your-spotify-id
+    SPOTIFY_SECRET=your-spotify-secret
+
+    ```
+* The app is now ready for you to use with below instructions. 
+
 ### MVP:
 
 * User can type the below commands in CLI along with input parameters:
