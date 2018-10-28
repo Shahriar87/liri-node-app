@@ -5,7 +5,7 @@
 
 ## Project Brief
 
-A CLI Application name LIRI which takes in user arguments for commands and parameter and display results from APIs
+A CLI Application named LIRI which takes in user arguments for commands and parameter and display results from APIs
 
 ## Project Walkthrough
 
